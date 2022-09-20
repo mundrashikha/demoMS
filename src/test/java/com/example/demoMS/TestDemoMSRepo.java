@@ -1,8 +1,5 @@
 package com.example.demoMS;
 
-public class TestDemoMSService {
-	
-	//git stash test
+public class TestDemoMSRepo {
 	//testing new branch and merge to master
-
 }
